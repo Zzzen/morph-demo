@@ -1,0 +1,1 @@
+const foo = SOME_GLOBAL_VAR;

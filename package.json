@@ -1,0 +1,19 @@
+{
+  "name": "morph-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  },
+  "dependencies": {
+    "@ts-morph/bootstrap": "^0.6.0"
+  }
+}
